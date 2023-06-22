@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AsjadMehmood
+- 👀 I’m interested in software engineering 
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on C++
